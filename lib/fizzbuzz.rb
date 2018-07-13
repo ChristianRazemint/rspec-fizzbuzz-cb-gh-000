@@ -12,3 +12,5 @@ if int % 5 == 0 && int % 3 == 0
 end
 
 end
+
+fizzbuzz
